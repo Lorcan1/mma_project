@@ -17,4 +17,6 @@ Project Completed as part of a team. Involved meticulously scraping data from th
 2100 - output merged.csv
 2200 - output final.csv
 
+Report.pdf - Final Report
+
 rankings.csv was created manually.
